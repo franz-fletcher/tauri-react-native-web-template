@@ -10,18 +10,18 @@
     "start": "RUST_DEBUG=1 tauri dev"
   },
   "dependencies": {
-    "@tauri-apps/api": "^1.0.0-rc.6",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "react-native-web": "^0.17.7"
+    "@tauri-apps/api": "^1.0.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native-web": "0.18.7"
   },
   "devDependencies": {
-    "@tauri-apps/cli": "^1.0.0-rc.13",
-    "@types/react": "^18.0.0",
-    "@types/react-dom": "^18.0.0",
-    "@types/react-native": "^0.67.7",
+    "@tauri-apps/cli": "^1.0.4",
+    "@types/react": "18.0.15",
+    "@types/react-dom": "18.0.6",
+    "@types/react-native": "0.69.3",
     "@vitejs/plugin-react": "^1.3.0",
-    "babel-plugin-react-native-web": "^0.17.7",
+    "babel-plugin-react-native-web": "0.18.7",
     "typescript": "^4.6.3",
     "vite": "^2.9.9"
   }
